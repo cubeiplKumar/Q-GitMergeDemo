@@ -23,3 +23,9 @@ class Main {
     }
   }
 }
+#feature citi300 changes by Mahesh
+   sourceFile.read(array);
+
+      // writes all data to newFile
+      destFile.write(array);
+      System.out.println("The input.txt file is copied to newFile.");
